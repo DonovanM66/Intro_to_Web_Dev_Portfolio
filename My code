@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My First Website!</title>
+</head>
+<body>
+
+<style>
+body {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-xHSvTsXFDB5bMvb4cHFC6TBHqvudmRT7wQ&s);
+background-repeat: no-repeat;
+background-attachment: fixed;
+  background-size: cover;
+background opacity: 75%;
+background-color: rgba(255, 255, 255, 0.486);
+  background-blend-mode: overlay;
+  border: 0px solid black;
+}
+</style>
+
+<h1>Top 5 Best Items to Buy in Aldi</h1>
+<br>
+<h2> 5. Apple </h2>
+<p>According to Wikipedia</p>
+<blockqoute> An apple is a round, edible fruit produced by an apple tree (Malus spp., among them the domestic or orchard apple; Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found. Apples have been grown for thousands of years in Eurasia and were introduced to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition.</blockquote>
+<p><img src="https://live.staticflickr.com/7144/6705613565_765baeec49_b.jpg" width="300" height="200"></p>
+<p> Apples are a very delectable fruit, the crunch you get when biting into an apple is heavenly expierence, A pples are currently 3 USD at Aldi, which is a great deal for the beatiful and delectable expierence of not only eating apples, but going to Aldis</p>
+
+</body>
+
